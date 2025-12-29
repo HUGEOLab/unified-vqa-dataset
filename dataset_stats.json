@@ -1,0 +1,16 @@
+{
+  "total_samples": 38082,
+  "by_dataset": {
+    "aokvqa": 18201,
+    "okvqa": 14055,
+    "fvqa": 5826
+  },
+  "by_split": {
+    "train": 26065,
+    "val": 6191
+  },
+  "sample_size": {
+    "json_bytes": 23957364,
+    "json_mb": 22.847522735595703
+  }
+}
